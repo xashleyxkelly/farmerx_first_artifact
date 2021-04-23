@@ -1,0 +1,26 @@
+nav{
+    background-color: rgba(182, 182, 182, 0.356);
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    min-height: 10vh;
+}
+
+.nav-links{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+.title{
+    color:white;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    font-size: 2.5em;
+}
+
+.nav-link{
+    color: white;
+}
